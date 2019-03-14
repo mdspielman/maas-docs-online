@@ -1,5 +1,7 @@
 .venv*
+_venv*
 .idea
 .DS*
 .vscode
 target/
+*.iml

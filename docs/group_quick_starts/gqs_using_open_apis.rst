@@ -6,9 +6,9 @@ To get started using Solace PubSub+ Cloud with open standard APIs:
 MQTT
 ----
 
-- `Samples <https://cloud.solace.com/samples/solace-samples-mqtt/>`_
-- `Features <https://dev.solace.com/tech/mqtt/>`_
-- `Documentation <https://www.eclipse.org/paho/>`_
+- `Samples <https://cloud.solace.com/samples/solace-samples-mqtt/>`__
+- `Features <https://dev.solace.com/tech/mqtt/>`__
+- `Documentation <https://www.eclipse.org/paho/>`__
 
 
 AMQP 1.0
@@ -28,7 +28,7 @@ JMS 2.0
 - `Documentation <https://docs.solace.com/Open-APIs-Protocols/AMQP/Developer-Subjects.htm>`_
 
 Node.js
-~~~~~~~~
+~~~~~~~
 
 - `Samples <https://solace.com/samples/solace-samples-amqp-nodejs/>`_
 - `Features <https://docs.solace.com/Open-APIs-Protocols/AMQP/AMQP-get-started.htm>`_
@@ -49,7 +49,7 @@ REST
 - `Documentation <https://docs.solace.com/Open-APIs-Protocols/REST-get-start.htm>`_
 
 OpenMAMA
----------
+--------
 
 - `Samples <https://solace.com/samples/solace-samples-openmama/>`_
 - `Features <https://docs.solace.com/Open-APIs-Protocols/OMAMA-get-started.htm>`_

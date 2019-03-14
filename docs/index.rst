@@ -11,14 +11,16 @@ The easiest way to learn about Solace PubSub+ Cloud is to create a messaging ser
 .. toctree::
    :maxdepth: 1
    :caption: Getting Started
-   :glob:
 
-   group_getting_started/*
+   group_getting_started/ggs_signup
+   group_getting_started/ggs_tryme
+   group_getting_started/ggs_queue
+
 
 
 .. _quick-starts:
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Working With
    :glob:
 
@@ -36,19 +38,16 @@ The easiest way to learn about Solace PubSub+ Cloud is to create a messaging ser
 
 .. _concepts:
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Concepts
    :glob:
 
    group_concepts/*
-   
-.. _faqs:
+
+.. _resources:
 .. toctree::
-   :maxdepth: 2
-   :caption: FAQs
+   :maxdepth: 1
+   :caption: RESOURCES
    :glob:
 
    group_faqs/*
-   
-
-
